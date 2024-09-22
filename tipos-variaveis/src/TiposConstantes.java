@@ -15,7 +15,21 @@ public class TiposConstantes {
 
         // VALOR_DE_PI = 10.75; -> tentaiva de alteração de valor.
 
+
     }
 
+    // Operadores
+
+    
+    // * Atribuição -> (=)
+
+    /*  
+        double soma = 10.5 + 15.7;
+        int subtracao = 113 - 25;
+        int multiplicacao = 20 * 7;
+        int divisao = 15 / 3;
+        int modulo = 18 % 3; -> a div dessa expressão resultara em numeros fracionários (restos de div)
+        double resultado = (10 * 7) + (20 / 4); -> 
+    */
     
 }
