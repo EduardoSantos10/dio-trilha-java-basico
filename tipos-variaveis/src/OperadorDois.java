@@ -65,7 +65,7 @@ public class OperadorDois {
         */
         
 
-        // Op, Lógicos
+        // Operadores Lógicos
 
         // declarro e atribuo valor a duas Var booleanas
         boolean condicao1 = true;

@@ -1,3 +1,4 @@
+
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         double salarioMinimo = 2500.50; // Valor de Milhar em double
